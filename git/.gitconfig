@@ -1,0 +1,9 @@
+[user]
+	name = cordcivilian
+	email = 69796618+cordcivilian@users.noreply.github.com
+[credential]
+	helper = store
+[init]
+	defaultBranch = main
+[alias]
+	graph = log --all --decorate --oneline --graph
